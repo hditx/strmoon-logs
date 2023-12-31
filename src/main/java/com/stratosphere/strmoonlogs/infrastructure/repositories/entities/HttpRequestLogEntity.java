@@ -12,4 +12,6 @@ public class HttpRequestLogEntity {
     private String url;
     private String httpMethod;
     private Date timeStamp;
+
+    private String userId;
 }

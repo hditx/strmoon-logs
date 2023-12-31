@@ -14,4 +14,5 @@ public class HttpRequestLog {
     private String url;
     private String httpMethod;
     private Date timeStamp;
+    private String userId;
 }
