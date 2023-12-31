@@ -1,0 +1,47 @@
+# Gradle files
+.gradle/
+build/
+
+# Compiled class files
+bin/
+out/
+build/
+**/build/
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.swo
+
+# Mac OS files
+.DS_Store
+
+# Spring Boot specific
+spring.log
+
+# Thumbnails created by windows
+Thumbs.db
+
+# Files created by JetBrains IDEs
+*.idea/
+*.iml
+*.iws
+
